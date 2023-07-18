@@ -1,0 +1,98 @@
+@font-face {
+    font-family: navfont;
+    src: url(aktiv-grotesk-cd-trial-cufonfonts-webfont/AktivGroteskCd_Trial_XBd.woff);
+}
+
+
+*{
+    padding:0px;
+    margin:0px;
+  }
+.navbar{
+    height: 90px;
+    width: 100%;
+    background-color: #009b4e;
+    position: fixed;
+    
+}
+#splogo{
+    height: 50px;
+    width: 130px;
+    margin-top: 20px;
+    margin-left: 42px;
+}
+#imagebotil{
+    margin-top: 90px;
+    height: 753PX;
+    float: right;
+}
+.navicons{
+    width: 22px;
+    height: 21px;
+    display: flex;
+    float: right;
+    margin-right: 282px;
+    margin-top: -30px;
+    gap: 23px;
+}
+.navmenu{
+    font-family: navfont;
+    display: flex;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    gap: 40px;
+    margin-left: 300px;
+    margin-top: -30px;
+}
+.navfb:hover{
+    content: url(images/fbnavhover.svg);
+}
+.navtw:hover{
+    content: url(images/twitwrnavhover.svg);
+}
+.navyt:hover{
+    content: url(images/youtubenavhover.svg);
+}
+.navin:hover{
+    content: url(images/instanavhover.svg);
+}
+.navsp:hover{
+    content: url(images/spotifynavhover.svg);
+}
+.navlo:hover{
+    content: url(images/loginnavhover.svg);
+}
+.navmenu1:hover{
+    color: black;
+}
+.navmenu2:hover{
+    color: black;
+}
+.navmenu3:hover{
+    color: black;
+}
+.navmenu4:hover{
+    color: black;
+}
+.fot1:hover{
+    color: black;
+}
+.fot2:hover{
+    color: black;
+}
+.fot3:hover{
+    color: black;
+}
+.fot4:hover{
+    color: black;
+}
+.fot5:hover{
+    color: black;
+}
+.fot6:hover{
+    color: black;
+}
+.fot7:hover{
+    color: black;
+}

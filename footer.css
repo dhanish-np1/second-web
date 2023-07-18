@@ -1,0 +1,77 @@
+.footer{
+    height: 415px;
+    background-color: #009b4e;
+}
+.downlogo{
+    height: 80px;
+    width: 230px;
+    margin-top: 2.5cm;
+    margin-left: 7cm;
+}
+.conect{
+    font-size: 14px;
+    font-family: navfont;
+    font-weight: normal;
+    color: white;
+    text-align-last: center;
+    margin-left: -10cm;
+    margin-top: -3.2cm;
+}
+.footlogo{
+    display: flex;
+    height: 28px;
+    margin-left: 18cm;
+    margin-top: 1.3cm;
+    gap: 4px;
+}
+.footlist{
+    font-size: 14px;
+    color: white;
+    font-family: navfont;
+    display: flex;
+    flex-direction:column;
+    gap: .4cm;
+    float:right ;
+    margin-right:   15.8cm;
+    margin-top: -2.6cm;
+
+}
+.footlink{
+    color: white;
+    font-family: navfont;
+    font-size: 14px;
+    margin-left: 21cm;
+    margin-top: 4.5cm;
+    
+    
+
+
+}
+.footlast{
+    font-family: navfont;
+    color: white;
+    display: flex;
+    gap: .2cm;
+    font-size: 14px;
+    margin-left:    15cm;
+    margin-top: .5cm;
+    list-style:none;
+}
+.footlist1:hover{
+color: black;
+}
+.footlist2:hover{
+    color: black;
+    }
+    .footlist3:hover{
+        color: black;
+        }
+        .footlist4:hover{
+            color: black;
+            }
+            .footlist5:hover{
+                color: black;
+                }
+                .footlist6:hover{
+                    color: black;
+                    }

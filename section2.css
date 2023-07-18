@@ -1,0 +1,72 @@
+@font-face {
+    font-family: navfont;
+    src: url(aktiv-grotesk-cd-trial-cufonfonts-webfont/AktivGroteskCd_Trial_XBd.woff);
+}
+
+.section2{
+    height: 1000px;
+}
+.video{
+    margin-left: 170px;
+    margin-top: 40px;
+    width: 706px;
+    height: 397px;
+}
+.btn2{
+    background-size: 18px;
+    background-color: #00A74A;
+    width:42px ;
+    height: 32px;
+    margin-left: 830px;
+    margin-top: 7px;
+}
+.img2{
+    
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.heading2{
+    font-family:navfont ;
+    font-weight: 900;
+    color: black;
+    font-size: 64px;
+    float: right;
+    margin-top: -450px;
+    margin-right: 6cm;
+
+}
+.para1{
+    font-family:navfont ;
+    float: right;
+    font-size: 30px;
+    width:  25cm;
+    margin-top: -7.8cm;
+}
+.btnshop{
+    font-family: navfont;
+    background-color: rgb(255,209,0);
+    font-size: 13px;
+    border: 0;
+    height: 30px;
+    width: 200px;
+    margin-left: 25.5cm;
+    margin-top: -4cm;
+}
+.paralast{
+    font-family: navfont;
+    color: rgb(0,150,57);
+    font-size: 64px;
+    margin-left: 4.5cm;
+    margin-top: 4.5cm;
+}
+.botil2{
+    height: 438px;
+    float: right;
+    margin-top: -8.7cm;
+    margin-right: 4cm;
+}
+.btnshop:hover{
+    background-color: #555555;
+    color: white;
+}
